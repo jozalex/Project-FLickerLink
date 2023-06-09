@@ -1,3 +1,3 @@
-# flickerlink
+# FlickerLink
 
 Linking film creators worldwide
